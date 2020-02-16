@@ -20,8 +20,8 @@ public class Emailfriendtest extends TestBase
 	String pass="123456789";
 	String Firstname="Maro";
 	String lastname="Nabil";
-	String Email="mm333w6283mm@gmail.com";
-	String friendemail="aaa@tt.com";
+	String Email="mm3pps6283mm@gmail.com";
+	String friendemail="bbb@tt.com";
 	String personamessage="hello my friend";
 	String productname="Apple MacBook Pro 13-inch";
 	searchforproduct searchobj;
