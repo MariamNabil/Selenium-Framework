@@ -23,7 +23,7 @@ public class GuestCheckoutProductFromCardTest extends TestBase
 	Order_infoafterconfirmordercheckout oobj;
 	String firstname="maro";
 	String lastname="nabil";
-	String Emaill="maroonabil@gmail.com";
+	String Emaill="maronabil@gmail.com";
 	String countryname ="Egypt";
 	String address="testtaddress";
 	String postcode="1236548";
