@@ -5,20 +5,9 @@
 	</parameter>
 	<test name="Regression Test" preserve-order="true">  
 		<classes>
-			<class name="Tests.Userregisteration" />
-		    <class name="Tests.Productreviewtestcase" />
-			<class name="Tests.Addtocomparelist" />
-			<class name="Tests.addcardtestcase" />
-			<class name="Tests.Addingproducttowishlist" />
-			<class name="Tests.ChangeCurrencyTest" />
-			<class name="Tests.Contctus" />
-			<class name="Tests.Emailfriendtest" />
-			<class name="Tests.GuestCheckoutProductFromCardTest" />
-		    <class name="Tests.My_Account" />
-			<class name="Tests.Productmovemenurtest" />
-			<class name="Tests.Registeredusercheckout" />
+			
 		    <class name="Tests.searchproduct" />
-			<class name="Tests.searchprodutwithautocomplete" />
+			
 		</classes>
 	</test>
 </suite>
